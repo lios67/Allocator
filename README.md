@@ -38,4 +38,5 @@ Addresses [924344 : 1048575] Free
 
 To Run:
 g++ -o allocator.exe allocator_OLin.cpp 
+
 ./allocator.exe 1048576
